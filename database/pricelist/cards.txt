@@ -1,0 +1,10 @@
+#product name | sell price | buy price | in stock | maximum stock | minimum stock
+Demon of Death's Gate | M11 | No | 4 | 3 | 1 | 0 | 0
+Elvish Archdruid | M11 | No | 1 | 0.5 | 4 | 7 | 0
+Glissa, the Traitor | MBS | 2 | 1 | 0 | 2 | 1
+Go for the Throat | MBS | No | 1  | 0.5 | 1 | 4 | 0
+Hero of Oxid Ridge  | MBS | No | 8  | 4 | 0 | 0 | 0
+Jace, the Mind Sculptor | WWK | No | 89 | 78 | 0 | 0 | 0
+Kargan Dragonlord | ROE | No | 11 | 7 | 2 | 2 | 0
+Koth of the Hammer | SOM | No | 18 | 15 | 0 | 0 | 0
+Vengevine | ROE | No | 36 | 31 | 0 | 1 | 0

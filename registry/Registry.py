@@ -1,0 +1,4 @@
+
+class Registry(object):
+
+    pass

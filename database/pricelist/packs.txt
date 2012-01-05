@@ -1,0 +1,8 @@
+#product name | set | foil | sell price | buy price | in stock | maximum stock | minimum stock level
+Magic 2011 Booster | M11 | No | 3.5 | 3 | 3 | 3 | 0
+Masters Edition 4 Booster | ME4| No | 3.8 | 3.2 | 3 | 3 | 0
+Mirrodin Besieged Booster | MBS | No | 3.5 | 3 | 32 | 36 | 0
+Rise of the Eldrazi Booster | ROE | No | 3.75 | 3 | 3 | 3 | 0
+Scars of Mirrodin Booster | SOM | No | 3.9 | 3 | 2 | 0 | 0
+Worldwake Booster | WWK | No | 4.25 | 3.5 | 3 | 3 | 0
+Zendikar Booster | ZEN | No | 4.25 | 3.5 | 6 | 6 | 0

@@ -1,0 +1,48 @@
+World of Warcraft
+	Auction House
+		Selling
+			Go to auctionhouse
+			list item on auctionhouse
+			wait for auction end
+			check mailbox for bid or item returned
+			
+		Buying
+			go to auctionhouse
+			type in item name
+			filter item results
+			enter bid
+			wait
+			check mailbox for item or bid returned
+	Player to Player
+		Buying
+			join channel
+			announce items for sale
+			recieve message
+			present options
+			meetup
+			make trade
+		Selling
+			join channel
+			announce items buying
+			recieve message
+			present options
+			meetup
+			make trade
+Magic Online
+	Buying
+		create classified ad
+		accept trade
+		scan collection for products
+		tell seller how many tix to take
+		confirm transaction
+	Selling
+		create classified ad
+		accept trade
+		wait for customer to take products
+		calculate price and tell him amount of tix to take
+		confirm transaction
+		
+Eve Online
+	
+Team Fortress 2
+
